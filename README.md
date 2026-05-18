@@ -26,7 +26,7 @@ This project connects agricultural data analysis, sensor-based monitoring, and p
 
 The dataset used in this project originates from the supplementary materials of the following publication:
 
-López-Morales et al. (2020)
+Riaboff et al. (2020).Use of Predicted Behavior from Accelerometer Data Combined with GPS Data to Explore the Relationship between Dairy Cow Behavior and Pasture Characteristics.
 Sensors, 20(17), 4741.
 
 Available at:
