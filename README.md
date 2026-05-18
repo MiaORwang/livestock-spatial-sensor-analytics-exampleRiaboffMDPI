@@ -18,6 +18,21 @@ The workflow uses grazing-related spatial data and AHC-classified monitoring poi
 - matplotlib
 - scikit-learn
 
+## Example Results
+
+### Spatial AHC classification
+
+![AHC](figures/pg_ahc_spatial_clusters.png)
+
+### KMeans clustering
+
+![KMeans](figures/pg_kmeans_spatial_clusters.png)
+
+### Slope distribution by cluster
+
+![Slope](figures/pg_slope_distribution_by_ahc_class.png)
+
+
 ## Relevance
 
 This project connects agricultural data analysis, sensor-based monitoring, and precision livestock farming.
